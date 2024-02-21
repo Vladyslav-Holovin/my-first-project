@@ -46,6 +46,8 @@ table {
     border-spacing: 0;
 }
 
+/*Hero Section*/
+
 .hero-section{
     background-color: #2E2F42;
     width: 100%;
@@ -75,6 +77,10 @@ table {
         line-height: 24px;
         margin: 50px 0;
 }
+
+/*Hero Section*/
+
+/*Advantages Section*/
 
 .advantages-section{
     padding: 100px 0;
@@ -108,6 +114,10 @@ table {
     font-size: 16px;
     line-height: 24px;
 }
+
+/*Advantages Section*/
+
+/*Team Section*/
 
 .team-section{
     padding: 100px 0;
@@ -157,3 +167,5 @@ table {
     padding-top: 10px;
     margin-bottom: 32px;
 }
+
+/*Team Section*/
